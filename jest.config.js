@@ -1,6 +1,6 @@
 // jest.config.js
 module.exports = {
   verbose: true,
-  testURL: 'http://localhost',
+  testURL: 'https://vmg-chat-bot.herokuapp.com/',
   testEnvironment: 'node'
 };
